@@ -1,1 +1,1 @@
-
+# A Variational Autoencoder (VAE) is a type of generative model that learns to represent data as a probability distribution in a lower-dimensional latent space, and then uses that distribution to generate new, similar data.
